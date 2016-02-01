@@ -1,0 +1,28 @@
+name: shelgrenphotography-sbx
+favicon: null
+layout_spectrum: 0.14776024175807834
+typography_spectrum: 0.08366291550919414
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.553560932399705
+  lightness: 0.19503954495303333
+  saturation: 0.0808334790635854
+  rhythmicContrast: 0.9843319437932223
+purpose: []
