@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Shelgren Photography]]></title>
         <description><![CDATA[Shelgren Photography]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/shelgrenphotography-sbx/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 01 Feb 2016 20:37:27 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 01 Feb 2016 20:39:01 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/shelgrenphotography-sbx/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e14a498e-6bc0-48b7-bdcd-93a0386e818f.jpg">]]></description>
-            <link>undefinedec7f530a-f0c1-46c0-89c1-8ef85395594d/index.html</link>
+            <link>https://thegrid.ai/shelgrenphotography-sbx/ec7f530a-f0c1-46c0-89c1-8ef85395594d/index.html</link>
             <guid isPermaLink="false">ec7f530a-f0c1-46c0-89c1-8ef85395594d</guid>
-            <pubDate>Mon, 01 Feb 2016 20:33:32 GMT</pubDate>
+            <pubDate>Mon, 01 Feb 2016 20:38:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
